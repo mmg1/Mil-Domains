@@ -175,6 +175,7 @@ heartland.coastguard.dodlive.mil
 heron.nrl.navy.mil
 history.amedd.army.mil
 history.army.mil
+s2tportal.mil
 home.fhpr.osd.mil
 homeland.au.af.mil
 hqdainet.army.mil
