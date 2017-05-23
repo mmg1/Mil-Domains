@@ -38,6 +38,7 @@ ameddregiment.amedd.army.mil
 ampo.amedd.army.mil
 amsc.amedd.army.mil
 aors.army.mil
+apd.army.mil 
 api.army.mil
 apps.army.mil
 apps.militaryonesource.mil
@@ -549,7 +550,6 @@ www3.natick.army.mil
 www7300.nrlssc.navy.mil
 www7320.nrlssc.navy.mil
 www7330.nrlssc.navy.mil
-apd.army.mil 
 www7333.nrlssc.navy.mil
 www7430.nrlssc.navy.mil
 wwwsolar.nrl.navy.mil
