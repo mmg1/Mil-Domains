@@ -1,6 +1,6 @@
 12af.acc.af.mil
 16names.nga.mil
-1af.acc.af.mil
+1af.acc.af.mila
 1militaryonesource.mil
 388fw.acc.af.mil
 403wg.afrc.af.mil
@@ -257,6 +257,7 @@ frf.usace.army.mil
 ftig.ng.mil
 ftmeade.army.mil
 ftmeade.armylive.dodlive.mil
+ftp.navy.mil
 ftp.nga.mil
 garrison-michigan.army.mil
 garrison.leavenworth.army.mil
@@ -358,7 +359,9 @@ legalassistance.law.af.mil
 lists.army.mil
 livecyclepub.dfas.mil
 lmvmapping.erdc.usace.army.mil
+localhost.navy.mil
 localhost.osd.mil
+loghost.navy.mil
 loghost.osd.mil
 louis14.nrl.navy.mil
 lrb.usace.army.mil
@@ -422,6 +425,7 @@ msi.nga.mil
 music.army.mil
 mvs-wc.mvs.usace.army.mil
 mx1.osd.mil
+my.navy.mil
 myduty.mil
 mypay.dfas.mil
 nap-wc.usace.army.mil
@@ -513,12 +517,15 @@ permafrosttunnel.crrel.usace.army.mil
 pfi.dod.mil
 phc.amedd.army.mil
 picac2w4.pica.army.mil
+pki.navy.mil
 pksoi.army.mil
 pl.army.mil
 planning.usace.army.mil
 pmrma-www.army.mil
+pop.navy.mil
 portal.army.mil
 portal.hpc.mil
+pr.navy.mil
 pr.osd.mil
 preview.defenselink.mil
 project.army.mil
@@ -539,6 +546,7 @@ ria150.army.mil
 risingstar.us.army.mil
 rivergages.mvr.usace.army.mil
 riverstatus.usace.army.mil
+rmi.navy.mil
 rms.usace.army.mil
 robins.jag.af.mil
 rorf.usno.navy.mil
@@ -556,6 +564,7 @@ sapr.mil
 science.dodlive.mil
 seabeemagazine.navylive.dodlive.mil
 search.disa.mil
+search.navy.mil
 secchi.nrl.navy.mil
 secm.army.mil
 secnav.navy.mil
@@ -580,6 +589,7 @@ space.au.af.mil
 spangdahlem.dodlive.mil
 speedy.pentagon.mil
 spider.army.mil
+spider.ncts.navy.mil
 spiritofamerica.mdw.army.mil
 ss.osd.mil
 ssc.natick.army.mil
