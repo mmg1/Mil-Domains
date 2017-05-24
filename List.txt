@@ -678,6 +678,7 @@ www.buchanan.army.mil
 www.crsc.army.mil
 www.disa.mil
 www.disa.mil.apps.gcds.disa.mil
+www.inscom.army.mil
 www2.ahp.us.army.mil
 www2.army.mil
 www2.dla.mil
