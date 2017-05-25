@@ -886,6 +886,10 @@ essencept.csd.disa.mil
 factstest.csd.disa.mil
 freedomawardstaging.csd.disa.mil
 gtg.csd.disa.mil
+freedomaward.csd.disa.mil
+freedomawardstaging.csd.disa.mil
+gtg.csd.disa.mil
+hms-admin-ds.csd.disa.mil
 iasws.csd.disa.mil
 iaswspt.csd.disa.mil
 iavm.csd.disa.mil
