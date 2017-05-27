@@ -1,2 +1,3 @@
 # Mil-Domains
-List of .Mil Domains/Subdomains 
+List of .Mil Domains/Subdomain
+Some will only work on https
